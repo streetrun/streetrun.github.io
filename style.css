@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("ship-2804076.jpg")
+   
+}
+.title-head{
+    padding: 0%;
+    margin-left: 45%;
+    background-color: rgb(187, 11, 11);
+    display: inline;
+    text-align: center;
+    padding:-9px;
+    line-height:2em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    padding: 20px;
+   
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    text-decoration-color: black; 
+      
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding:inherit;
+    background-color:black;
+    
+    margin-left: 128px;
+    
+}
+ul a{
+    text-decoration: none;
+   
+}
+nav{
+    text-align: center;
+    
+    font-size: 30px;
+    padding-left: 20px;
+}
+ul a:hover{
+    text-decoration: underline;
+    color:white;
+}
+#heading{
+    width: 200px
+    padding:200px;
+    background-color:white;
+}
+ul{
+    text-align:center;
+
+    
+}
+.ordertitle{
+    padding: 20px;
+}
+blockquote{
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(73, 70, 70);
+}
+
+.foot{
+    text-align-last: auto;
+}
+input[type=button]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+ clear:both;position:relative;left:45%;
+}  
+
+.contact{
+    text-align: center;
+    margin-top: 3em
+}
+.contact-p{
+    line-height:6em;
+    text-align: center;
+}
+.footer-p{
+    text-align: center;
+}
+.article{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    font-size: 20px;
+}
